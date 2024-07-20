@@ -1,9 +1,0 @@
-{
-  "manifest_version": 2,
-  "name": "Download File Hash Checker",
-  "version": "1.0",
-  "permissions": ["downloads"],
-  "background": {
-    "scripts": ["background.js"]
-  }
-}
